@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">AirMed - U. Utah Health Care</name>
+     <texture-fuselage>liveries/AirMed/Fuselage_T.jpg</texture-fuselage>
+     <texture-tail>liveries/AirMed/Fuselage_Tail_T.jpg</texture-tail>
+	 <texture-rotor>liveries/IraqiArmy/Misc_T.jpg</texture-rotor>
+	<!-- <texture-int>liveries/IraqiArmy/interior.jpg</texture-int>  -->
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+
+  <sim>
+    <model>
+      <livery>
+        <name type="string">TG-COR, Private Owner</name>
+     <texture-fuselage>liveries/TGCOR/Fuselage_T.jpg</texture-fuselage>
+     <texture-tail>liveries/TGCOR/Fuselage_Tail_T.jpg</texture-tail>
+	 <texture-rotor>liveries/Niagara/Misc_T.jpg</texture-rotor>
+	<!-- <texture-int>liveries/Niagara/interior.jpg</texture-int>  -->
+
+   <specular>
+              <red>   0.3 </red>
+              <green> 0.3 </green>
+              <blue>  0.3 </blue>
+            </specular>
+
+            <emission>
+              <red>   0.2 </red>
+              <green> 0.2 </green>
+              <blue>  0.2 </blue>
+            </emission>
+
+      </livery>
+    </model>
+  </sim>
+
+</PropertyList>
